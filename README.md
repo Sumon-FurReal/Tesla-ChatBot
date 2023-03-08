@@ -1,4 +1,4 @@
-# Tesla-ChatBot
+# Tesla-ChatBot :ghost:
 "Wall-E" is a Tesla chatbot that uses NLP, TF-IDF, and a text corpus to answer FAQs about Tesla.
 
 This Python code is a simple chatbot named "Wall-E" designed to answer frequently asked questions (FAQs) about Tesla. The chatbot uses Natural Language Processing (NLP) techniques and a Term Frequency-Inverse Document Frequency (TF-IDF) algorithm to provide appropriate responses to user input.
